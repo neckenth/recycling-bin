@@ -1,2 +1,4 @@
 # recycling-bin
-legacy district pre-processing code
+legacy school district pre-processing code (Python, Pandas, Numpy)
+to be used for reference by future members of the Data Integration Team - JUST IN CASE
+
